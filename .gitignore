@@ -1,0 +1,18 @@
+# Unreal Engine 5
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Config/
+*.sdf
+*.opensdf
+*.sln
+*.VC.db
+*.VC.opendb
+*.user
+*.uproject.user
+__ExternalActors__/
+__ExternalObjects__/
+*HLOD*.uasset
+*HLOD*.umap
