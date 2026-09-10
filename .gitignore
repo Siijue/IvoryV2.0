@@ -16,3 +16,6 @@ __ExternalActors__/
 __ExternalObjects__/
 *HLOD*.uasset
 *HLOD*.umap
+# Visual Studio
+.vs/
+*.vsconfig
